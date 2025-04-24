@@ -45,7 +45,7 @@ A consulta utiliza verificações simples e apresenta os dados por meio da funç
 ### 4. Excluir Produto
 - Solicita o ID do produto a ser excluído.
 - Remove o produto da lista, se encontrado.
-- Exibe uma mensagem única de confirmação ou erro (corrigido na versão atual).
+- Exibe uma mensagem única de confirmação ou erro.
 
 ### 5. Menu Principal
 - Exibe as principais opções por meio da função `menu()`:
